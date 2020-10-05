@@ -3,6 +3,9 @@
 
 Sentiment Analysis is a field of Natural Language Processing responsible for systems that can extract opinions from natural language. NLP targets creating pipelines that can understand language like we humans do. Sentiment analysis is one of the most basic problems in NLP and is usually one of the first problem that students face in a Natural Language Processing course.
 
+![](pics/1.jpeg)
+
+
 **Why Sentiment Analysis?**
 
 
@@ -25,7 +28,11 @@ Sentiment Analysis is essentially a classification problem. While sentiment anal
 ***Intent Detection :*** Being able to detect not only what is present in the sentence but also its intent.
 
 
+## Pipeline
 
+
+
+![](pics/4.png)
 
 
 
